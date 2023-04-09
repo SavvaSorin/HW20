@@ -1,0 +1,9 @@
+.text {
+  font-size: 3rem;
+}
+.block {
+  font-size: 100%;
+}
+.text {
+  line-height: 200%;
+}
